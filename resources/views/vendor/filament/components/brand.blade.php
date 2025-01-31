@@ -1,0 +1,1 @@
+<img src="{{ asset('/static-backend/logo.webp') }}" alt="Logo" class="h-10">
