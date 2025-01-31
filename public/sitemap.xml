@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>http://cybertools-v1-8.test</loc>
+        <lastmod>2023-09-28T07:24:58+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/website-status-checker</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/user-agent-finder</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/whats-my-ip</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/ping</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/url-unshortener</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/url-encoder</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/url-decoder</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/ssl-checker</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/qr-generator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/qr-code-reader</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/http-headers-parser</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/uuidv4-generator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/youtube-thumbnail-downloader</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/email-validator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/redirect-checker</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/random-number-generator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/rgb-to-hex</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/hex-to-rgb</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/timestamp-converter</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/text-to-binary</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/binary-to-text</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/text-to-base64</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/base64-to-text</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/image-to-base64</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/markdown-to-html</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/html-to-markdown</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/csv-to-json</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/json-to-csv</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/json-to-xml</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/json-beautifier</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/json-validator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/rot13-encoder</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/rot13-decoder</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/unicode-to-punycode</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/punycode-to-unicode</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/jpg-to-png</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/jpg-to-webp</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/png-to-jpg</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/png-to-webp</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/webp-to-jpg</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/webp-to-png</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/image-compressor</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/image-resizer</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/memory-storage-converter</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/password-generator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/password-strength-test</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/md5-generator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/sha-generator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/bcrypt-generator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/hash-generator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/credit-card-validator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/word-count</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/lorem-ipsum-generator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/text-separator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/duplicate-lines-remover</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/line-break-remover</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/email-extractor</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/url-extractor</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/seo-tags-generator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/twitter-card-generator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/html-entity-encode</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/html-entity-decode</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/html-tags-stripper</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/html-minifier</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/css-minifier</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/js-minifier</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/html-formatter</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/css-formatter</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/js-formatter</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/js-obfuscator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/sql-beautifier</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/privacy-policy-generator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/terms-of-service-generator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/robotstxt-generator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/htaccess-generator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/source-code-downloader</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/text-replacer</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/text-reverser</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/word-density-counter</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/palindrome-checker</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/case-converter</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/text-to-slug</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/random-text-line</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/quoted-printable-encode</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/quoted-printable-decode</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/domain-generator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/domain-whois</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/ip-to-hostname</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/hostname-to-ip</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/ip-information</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/http-status-code-checker</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/url-parser</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/dns-lookup</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/whats-my-browser</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/open-port-checker</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/bmi-calculator</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/smtp-test</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/tool/gzip-test</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/contact</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.6</priority>
+	</url>
+
+	<url>
+		<loc>http://cybertools-v1-8.test/blog</loc>
+		<lastmod>2023-09-28T07:24:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.6</priority>
+	</url>
+	</urlset>
