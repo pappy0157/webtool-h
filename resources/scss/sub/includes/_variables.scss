@@ -1,0 +1,57 @@
+$font-family:           "Rubik", sans-serif;
+$color-white:           #ffffff;
+$color-whiter:          #f9f9fb;
+$color-black:           #0a1420;
+$color-grey:            #e1e9df;
+
+$color-dark:            #171717;
+$color-dark-light:      #202124;
+$color-dark-lighter:    #303134;
+$color-dark-border:     #9AA0A6;
+
+$color-primary:         #4c3ff2;
+$color-secondary:       #555760;
+
+$color-red:             #e63946;
+$color-green:           #3dc481;
+$color-blue:            #73bcfb;
+$color-blue-light:      #f2f1fb;
+
+$color-facebook:        rgb(36, 94, 170);
+$color-google:          rgb(226, 74, 47);
+$color-behance:         rgb(23, 103, 252);
+$color-dribble:         rgb(238, 74, 137);
+$color-instagram:       rgb(255, 171, 2);
+
+$color-placeholder:     #a5aebc;
+$color-border:          #d1d6dd;
+
+:root, [data-theme="default"] {
+    --font-family:              #{$font-family};
+    --color-white:              #{$color-white};
+    --color-whiter:             #{$color-whiter};
+    --color-black:              #{$color-black};
+    --color-grey:               #{$color-grey};
+
+    --color-dark:               #{$color-dark};
+    --color-dark-light:         #{$color-dark-light};
+    --color-dark-lighter:       #{$color-dark-lighter};
+    --color-dark-border:        #{$color-dark-border};
+
+    --color-primary:            #{$color-primary};
+    --color-secondary:          #{$color-secondary};
+
+    --color-red:                #{$color-red};
+    --color-green:              #{$color-green};
+    --color-blue:               #{$color-blue};
+    --color-blue-light:         #{$color-blue-light};
+
+    --color-facebook:           #{$color-facebook};
+    --color-google:             #{$color-google};
+    --color-behance:            #{$color-behance};
+    --color-dribble:            #{$color-dribble};
+    --color-instagram:          #{$color-instagram};
+
+    --color-placeholder:        #{$color-placeholder};
+    --color-border:             #{$color-border};
+}

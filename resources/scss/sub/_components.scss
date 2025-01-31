@@ -1,0 +1,153 @@
+@import 'includes/mixins';
+
+.custom--btn{
+    text-align: center;
+    background: var(--color-primary);
+    color: var(--color-white);
+    @include transition();
+    border-radius: 100px;
+    &.btn__dark{
+        background: var(--color-black);
+        color: var(--color-white);
+        &:hover,
+        &:focus,
+        &:active{
+            opacity: .7;
+            background: var(--color-black);
+            color: var(--color-white);
+        }
+    }
+    &.btn__light{
+        background: var(--color-white);
+        color: var(--color-primary);
+        &:hover,
+        &:focus,
+        &:active{
+            opacity: .7;
+            background: var(--color-white);
+            color: var(--color-primary);
+        }
+    }
+    &:hover,
+    &:focus,
+    &:active,
+    &.disabled,
+    &:disabled{
+        opacity: .7;
+        background: var(--color-primary);
+        color: var(--color-white);
+        svg{
+            path{
+                fill: var(--color-white);
+            }
+        }
+    }
+    &.btn__bordered{
+        border: 2px solid var(--color-primary);
+        background: none;
+        color: var(--color-primary);
+        &:hover,
+        &:focus,
+        &:active{
+            background: var(--color-primary);
+            color: var(--color-white);
+            svg{
+                path{
+                    fill: var(--color-white);
+                }
+            }
+        }
+        svg{
+            margin-right: 6px;
+        }
+        &.btn__dark{
+            background-color: transparent;
+            border-color: var(--color-black);
+            color: var(--color-black);
+            &:hover,
+            &:focus,
+            &:active{
+                opacity: 1;
+                background-color: transparent;
+                border-color: var(--color-primary);
+                color: var(--color-primary);
+            }
+        }
+    }
+    &.dark-hover{
+        &:hover,
+        &:focus,
+        &:active{
+            background: var(--color-secondary);
+            color: var(--color-white);
+            svg{
+                path{
+                    fill: var(--color-white);
+                }
+            }
+        }
+    }
+    &.red{
+        background: var(--color-red);
+        color: var(--color-white);
+        &:hover,
+        &:focus,
+        &:active{
+            background: var(--color-red-light);
+            color: var(--color-red);
+            border-color: var(--color-red);
+            svg{
+                path{
+                    fill: var(--color-red);
+                }
+            }
+        }
+    }
+}
+.button__sm{
+    font-weight: 500;
+    padding: 0 12px;
+    line-height: 30px;
+    font-size: 16px;
+    @include media-query("tablet-wide", max) {
+        padding: 0 10px;
+        line-height: 28px;
+        font-size: 14px;
+    }
+}
+.button__md{
+    padding: 0 25px;
+    line-height: 40px;
+    font-size: 16px;
+    font-weight: 500;
+    @include media-query("tablet-wide", max) {
+        padding: 0 17px;
+        line-height: 35px;
+        font-size: 14px;
+    }
+}
+.button__lg{
+    padding: 0 36px;
+    line-height: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    @include media-query("tablet-wide", max) {
+        padding: 0 20px;
+        line-height: 40px;
+        font-size: 16px;
+    }
+}
+.button__xl{
+    font-size: 24px;
+    font-weight: 400;
+    padding: 0 60px;
+    line-height: 65px;
+    @include media-query("tablet-wide", max) {
+        font-size: 18px;
+        padding: 0 30px;
+        line-height: 45px;
+    }
+}
+.btn-block{
+    width: 100%;
+}

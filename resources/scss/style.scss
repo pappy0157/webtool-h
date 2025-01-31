@@ -1,0 +1,38 @@
+@import 'bootstrap';
+@import 'sub/base';
+@import 'sub/components';
+@import 'sub/utilities';
+[x-cloak] {
+    display: none;
+}
+
+body ::-webkit-scrollbar {
+    width: 8px;
+}
+
+
+/* Track */
+
+body ::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0);
+    border-left: 1px var(--color-primary) solid;
+}
+
+
+/* Handle */
+
+body ::-webkit-scrollbar-thumb {
+    cursor: pointer;
+    border-radius: 0 4px 4px 0;
+    padding: 8px;
+    background: var(--color-primary);
+}
+
+hr:not([size]) {
+    height: 1px;
+    border: none;
+}
+
+.content-sec .content-sec-inner .content-cats-sec .content-cats-col .content-cats-inner.locked .content-cats-icon {
+    background-color: #e8e7f3 !important;
+}
